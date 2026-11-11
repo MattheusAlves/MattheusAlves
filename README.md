@@ -21,11 +21,15 @@ I'm looking for **full-stack opportunities** where I can contribute, keep learni
 
 **Languages** · JavaScript, TypeScript  
 **Frontend** · React, Next.js, React Native, Sass  
-**Backend & tooling** · Node.js, APIs, MongoDB, GitHub Actions
+**Backend & tooling** · Node.js, NestJS, APIs, PostgreSQL, MongoDB, GitHub Actions  
+**Architecture project stack** · RabbitMQ, Docker, Kubernetes, Terraform, AWS
 
 ### Selected projects
 
-These projects are from 2020–2021 and show a mix of personal, academic, and course work.
+🏗️ **[Service Orders Platform](https://github.com/arch-soat13-org/app-service-orders)** · 2026  
+A collaborative project from my postgraduate studies in Software Architecture at FIAP. Built with NestJS and TypeScript, the platform includes separate billing and execution services, event-driven workflows with RabbitMQ, and infrastructure using Docker, Kubernetes, Terraform, and AWS. [Explore the organization](https://github.com/arch-soat13-org)
+
+**Earlier personal, academic, and course projects · 2020–2021**
 
 🎬 **[MS — Movies and Series](https://github.com/MattheusAlves/ms-movies)**  
 A personal project for exploring movies and TV shows, built with Next.js, React, SWR, and serverless functions. [View demo](https://ms-movies.vercel.app/)
