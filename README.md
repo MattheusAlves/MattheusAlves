@@ -26,8 +26,13 @@ I'm looking for **full-stack opportunities** where I can contribute, keep learni
 
 ### Selected projects
 
-🏗️ **[Service Orders Platform](https://github.com/arch-soat13-org/app-service-orders)** · 2026  
-A collaborative project from my postgraduate studies in Software Architecture at FIAP. Built with NestJS and TypeScript, the platform includes separate billing and execution services, event-driven workflows with RabbitMQ, and infrastructure using Docker, Kubernetes, Terraform, and AWS. [Explore the organization](https://github.com/arch-soat13-org)
+🏗️ **[Service Orders Platform](https://github.com/arch-soat13-org)** · 2026  
+A collaborative project from my postgraduate studies in Software Architecture at FIAP. Built with NestJS and TypeScript, the platform uses event-driven workflows with RabbitMQ and infrastructure using Docker, Kubernetes, Terraform, and AWS.
+
+The platform spans six repositories:
+
+- **Services:** [Service orders](https://github.com/arch-soat13-org/app-service-orders) · [Billing](https://github.com/arch-soat13-org/app-service-orders-billing) · [Execution](https://github.com/arch-soat13-org/app-service-orders-execution) · [Customer authentication Lambda](https://github.com/arch-soat13-org/app-service-orders-lambda)
+- **Infrastructure:** [Kubernetes & AWS](https://github.com/arch-soat13-org/app-service-orders-infra-k8s) · [PostgreSQL on AWS RDS](https://github.com/arch-soat13-org/app-service-orders-infra-db)
 
 **Earlier personal, academic, and course projects · 2020–2021**
 
