@@ -2,11 +2,20 @@
 
 ### Full-stack development · React · Next.js · Node.js
 
-I'm a developer from Campinas, Brazil, interested in building web and mobile applications. My projects explore everything from user interfaces to APIs, with JavaScript and TypeScript across the stack.
+I'm a Senior Software Engineer at Venturus, based in Campinas, Brazil. I build complex web interfaces and explore full-stack and mobile development with JavaScript and TypeScript.
 
 I'm looking for **full-stack opportunities** where I can contribute, keep learning, and build useful products.
 
 ---
+
+### Professional experience
+
+**Venturus** · Software Developer → Senior Software Engineer · 2021–present
+
+- Built a high-performance Pub/Sub-based form library for complex, large-scale forms, improving data consistency and supporting simultaneous editing.
+- Optimized interactive data tables with 100–1,000 rows and over 44 columns using virtualization, React hooks, code splitting, and performance benchmarking.
+- Designed AI-assisted development workflows with custom skills for an internal Claude Code plugin, adopted by seven developers; selected as the team's AI Champion.
+- Developed front-end architecture and features involving state management, WebSockets, analytics, and complex UI components.
 
 ### What I work with
 
